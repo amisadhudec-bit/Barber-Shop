@@ -47,8 +47,8 @@ Barber-Shop/
 
 ---
 
-## 🚀 Live Demo  
-_Add your live link here after deployment:_  
+## 🚀 Live Demo  <br>
+https://amisadhudec-bit.github.io/Barber-Shop/
 
 🎯 Purpose of Project<br>
 This project is built to improve frontend development skills and create a real-world barber shop website layout for portfolio and practice purposes.
